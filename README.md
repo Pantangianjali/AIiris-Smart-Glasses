@@ -30,5 +30,5 @@ Alris Smart Glasses is an AI-based wearable technology project designed to enhan
 ---
 
 ## 👩‍💻 Author
-**Chuttu**  
+**Pantangi Anjali**  
 Aspiring Software Engineer | Python | AI Enthusiast
